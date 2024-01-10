@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Popups_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c3d6d358a3d7ab2468875fc5cc16f787, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4471188480000
+    m_Localized: 'Welcome!
+
+      The goal of this game is to move all your pieces
+      to the other side of the board.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4473600204800
+    m_Localized: To win the game, you should move your pieces to the other side of
+      the board as shown.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4475567333376
+    m_Localized: But be careful! Your opponent will be trying to place their pieces
+      on your side.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4477727399936
+    m_Localized: 'When you select a piece, the piece starts to flash and the squares
+      it can move to are colored yellow. In this tutorial, I chose the piece on the
+      f6 square as the starting move.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4485977595904
+    m_Localized: 'I selected the f5 square to move the piece and the piece moved
+      forward one square.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488062164992
+    m_Localized: Also your pieces can jump over other pieces that belong to you or
+      your opponent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488758419456
+    m_Localized: The piece was on square h7 and it jumped over the piece on h6 and
+      moved to h5.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489333039104
+    m_Localized: Let's try double jump. Looks like the piece on g7 square is able
+      to do this.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489874104320
+    m_Localized: The piece was on square g7 and it jumped over the piece on g6 and
+      moved to g5.Then it jumped over the piece on square f4 and moved to e4. So
+      you can jump multiple times if you can combine them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4490851377152
+    m_Localized: Let's build a bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4491363082240
+    m_Localized: We should make our bridge longer to cover longer distance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492248080384
+    m_Localized: 'The piece in square g8 seems suitable for bridge building.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492835282944
+    m_Localized: Let's get this piece closer to our bridge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493380542464
+    m_Localized: Can you see how to add this to our bridge?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493883858944
+    m_Localized: You are right we should move this piece to c5 square.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4494471061504
+    m_Localized: Let's make this bridge even longer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4876375023616
+    m_Localized: OOPS!! What happened? Your opponent used your bridge for free! Sorry!
+      That was my bad...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4889654190080
+    m_Localized: "I ruined this game. Let's start over and this time I won't interfere
+      at all. Don't forget to think about your opponent's move when choosing the
+      piece to move!\r Good Luck!\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

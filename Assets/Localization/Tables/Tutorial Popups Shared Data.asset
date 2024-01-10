@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorial Popups Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorial Popups
+  m_TableCollectionNameGuidString: c3d6d358a3d7ab2468875fc5cc16f787
+  m_Entries:
+  - m_Id: 4471188480000
+    m_Key: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4473600204800
+    m_Key: WinCondition1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4475567333376
+    m_Key: WinCondition2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4477727399936
+    m_Key: FirstMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4485977595904
+    m_Key: FirstMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488062164992
+    m_Key: SecondMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488758419456
+    m_Key: SecondMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489333039104
+    m_Key: ThirdMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489874104320
+    m_Key: ThirdMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4490851377152
+    m_Key: FourthMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4491363082240
+    m_Key: FourthMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492248080384
+    m_Key: FifthMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492835282944
+    m_Key: FifthMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493380542464
+    m_Key: SixthMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493883858944
+    m_Key: SixthMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4494471061504
+    m_Key: SeventhMoveHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4876375023616
+    m_Key: SeventhMove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4889654190080
+    m_Key: End
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8790282409725394984
+  references:
+    version: 2
+    RefIds:
+    - rid: 8790282409725394984
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691933690962

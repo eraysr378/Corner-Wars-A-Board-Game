@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Popups_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: c3d6d358a3d7ab2468875fc5cc16f787, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4471188480000
+    m_Localized: "Ho\u015F geldin!\r\nBu oyunun amac\u0131, sana ait t\xFCm ta\u015Flar\u0131
+      tahtan\u0131n di\u011Fer taraf\u0131na ta\u015F\u0131makt\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4473600204800
+    m_Localized: "Oyunu kazanmak i\xE7in ta\u015Flar\u0131n\u0131 g\xF6sterildi\u011Fi
+      gibi tahtan\u0131n di\u011Fer taraf\u0131na ta\u015F\u0131mal\u0131s\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4475567333376
+    m_Localized: "Ama dikkat et! Rakibin de ta\u015Flar\u0131n\u0131 senin taraf\u0131na
+      yerle\u015Ftirmeye \xE7al\u0131\u015Facak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4477727399936
+    m_Localized: "Bir ta\u015F se\xE7ti\u011Finde ta\u015F yan\u0131p s\xF6nmeye
+      ba\u015Flar ve hareket edebilece\u011Fi kareler sar\u0131ya boyan\u0131r. Bu
+      \xF6\u011Freticide ba\u015Flang\u0131\xE7 hamlesi olarak f6 karesindeki ta\u015F\u0131
+      se\xE7tim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4485977595904
+    m_Localized: "Ta\u015F\u0131 hareket ettirmek i\xE7in f5 karesini se\xE7tim ve
+      ta\u015F bir kare ileri gitti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488062164992
+    m_Localized: "Ayr\u0131ca ta\u015Flar\u0131n sana veya rakibine ait di\u011Fer
+      ta\u015Flar\u0131n \xFCzerinden z\u0131playabilir.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4488758419456
+    m_Localized: "Ta\u015F h7 karesindeydi ve h6'daki ta\u015F\u0131n \xFCzerinden
+      atlayarak ve h5'e gitti.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489333039104
+    m_Localized: "Bir de \xE7ift z\u0131plamay\u0131 deneyelim. G\xF6r\xFCn\xFC\u015Fe
+      g\xF6re g7 karesindeki ta\u015F \xE7ift z\u0131playabiliyor.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4489874104320
+    m_Localized: "Ta\u015F g7 karesindeydi ve g6'daki ta\u015F\u0131n \xFCzerinden
+      atlad\u0131 ve g5'e gitti. Ard\u0131ndan f4 karesindeki ta\u015F\u0131n \xFCzerinden
+      atlad\u0131 ve e4'e gitti. Yani z\u0131plamalar\u0131  birle\u015Ftirebilirsen
+      birden \xE7ok kez z\u0131playabilirsin.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4490851377152
+    m_Localized: "Hadi bir k\xF6pr\xFC in\u015Fa edelim\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4491363082240
+    m_Localized: "K\xF6pr\xFCy\xFC olabildi\u011Fince uzun yapmal\u0131y\u0131z ki
+      ta\u015Flar\u0131m\u0131z daha uzun mesafe kat etsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492248080384
+    m_Localized: "g8 karesindeki par\xE7a k\xF6pr\xFC in\u015Fas\u0131 i\xE7in uygun
+      g\xF6z\xFCk\xFCyor.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4492835282944
+    m_Localized: "Bu par\xE7ay\u0131 k\xF6pr\xFCm\xFCze yakla\u015Ft\u0131ral\u0131m.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493380542464
+    m_Localized: "Bunu k\xF6pr\xFCm\xFCze nas\u0131l ekleyece\u011Fimizi g\xF6rebiliyor
+      musun?\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4493883858944
+    m_Localized: "Hakl\u0131s\u0131n, bu ta\u015F\u0131 c5 karesine ta\u015F\u0131mal\u0131y\u0131z.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4494471061504
+    m_Localized: "Hadi bu k\xF6pr\xFCy\xFC daha da uzatal\u0131m.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4889654190080
+    m_Localized: "Bu oyunu mahvettim. Hadi ba\u015Ftan ba\u015Flayal\u0131m ve bu
+      sefer ben hi\xE7 kar\u0131\u015Fmayaca\u011F\u0131m. Hareket ettirece\u011Fin
+      ta\u015F\u0131 se\xE7erken rakibin hamlesini de d\xFC\u015F\xFCnmeyi unutma!
+      \u0130yi \u015Eanslar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4876375023616
+    m_Localized: "Ahh!! Ne oldu? Rakip, k\xF6pr\xFCm\xFCz\xFC bedavaya kulland\u0131!
+      \xDCzg\xFCn\xFCm! Bu benim hatamd\u0131...\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
