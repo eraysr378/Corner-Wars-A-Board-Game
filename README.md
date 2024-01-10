@@ -1,6 +1,6 @@
 # Corner-Wars-A-Board-Game
-This is a board game that I played with my friends when I was a child.
-The rules are a few rules and all are simple.
+# This is a board game that I played with my friends when I was a child.
+# The rules are a few rules and all are simple.
 The rules are shown in the video by playing the tutorial.
 There are 2 languages available Turkish and English.
 It was fun to implement the algorithm and making a tutorial for the players.
