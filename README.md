@@ -4,7 +4,7 @@ The rules are a few rules and all are simple. <br />
 The rules and how to play the game is shown in the video by playing the tutorial. <br />
 There are 2 languages available Turkish and English. <br />
 It was fun to implement the algorithm and making a tutorial for the players. <br />
-Also I have had an opportunity to learn localization for a game. <br />
+Also I have had an opportunity to learn how to localize a game. <br />
 
 youtube link to video: https://youtu.be/gXiIfpF5NbU
 
